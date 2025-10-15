@@ -103,12 +103,12 @@ Example themes:
 | Certificate | Provider | Date | Key Skills |
 |--------------|-----------|-------|-------------|
 | [Data Analytics Certificate (DAC™)](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Data%20Analyst%20Certification%20-%20BrainStation.pdf) | BrainStation, London | Nov 2024 | Excel · SQL · Tableau · Visualization |
-| Intermediate SQL | DataCamp | Oct 2024 | SQL · Bioinformatics |
-| Data Literacy | DataCamp | Sep 2024 | Information Literacy · Data Quality |
-| Intermediate R | DataCamp | May 2023 | R · Data Wrangling |
-| Certificate in Copywriting | City St George’s, University of London | Oct 2022 | Copywriting · Editing |
+| [Intermediate SQL](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Intermediate%20SQL%20Certificate.pdf) | DataCamp | Oct 2024 | SQL · Bioinformatics |
+| [Data Literacy](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Fundamentals%20Certification%20-%20Data%20Literacy%20certificate.pdf) | DataCamp | Sep 2024 | Information Literacy · Data Quality |
+| [Intermediate R](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Intermediate%20R%20Certificate.pdf) | DataCamp | May 2023 | R · Data Wrangling |
+| [Certificate in Copywriting](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Certificate-CS1210-DIANA-NICUTARI-220059997.1.pdf) | City St George’s, University of London | Oct 2022 | Copywriting · Editing |
 
-📂 *[See credential images →](./certificates)*
+📂 *[See credential images →](https://github.com/Dia-git/Data-analysis-portfolio)*
 
 ---
 
