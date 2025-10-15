@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analysis Portfolio!**  
 
-This repository showcases my work, skills, and continuous learning in **data analytics**, highlighting real‑world projects that reflect my analytical approach and storytelling focus. Each project demonstrates different steps of the data workflow — from exploration and cleaning to analysis, visualization, and insight generation.
+This repository showcases my work, skills, and continuous learning in **data analytics**, highlighting real‑world projects that reflect my analytical approach and storytelling focus. Each project demonstrates different steps of the data workflow, from exploration and cleaning to analysis, visualization, and insight generation.
 
 ---
 
