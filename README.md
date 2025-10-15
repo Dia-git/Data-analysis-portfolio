@@ -102,7 +102,7 @@ Example themes:
 
 | Certificate | Provider | Date | Key Skills |
 |--------------|-----------|-------|-------------|
-| Data Analytics Certificate (DAC™) | BrainStation, London | Nov 2024 | Excel · SQL · Tableau · Visualization |
+| [Data Analytics Certificate (DAC™)](https://github.com/Dia-git/Data-analysis-portfolio/blob/main/Data%20Analyst%20Certification%20-%20BrainStation.pdf) | BrainStation, London | Nov 2024 | Excel · SQL · Tableau · Visualization |
 | Intermediate SQL | DataCamp | Oct 2024 | SQL · Bioinformatics |
 | Data Literacy | DataCamp | Sep 2024 | Information Literacy · Data Quality |
 | Intermediate R | DataCamp | May 2023 | R · Data Wrangling |
