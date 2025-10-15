@@ -26,14 +26,14 @@ This repository showcases my work, skills, and continuous learning in **data ana
 
 Hi, I’m **Diana Nicutari**, a data‑driven professional with a background in **biology and bioinformatics**, passionate about using data to extract, interpret, and communicate meaningful insights.
 
-I hold a **Master of Science (M.Sc.) in Bioinformatics** from the **University of Birmingham (UK)**, where my dissertation focused on **optimizing ATAC‑seq workflows for chromatin accessibility analysis** — a project that showcases my interest in data reproducibility and standardization.
+I hold a **Master of Science (M.Sc.) in Bioinformatics** from the **University of Birmingham (UK)**, where my dissertation focused on **optimizing ATAC‑seq workflows for chromatin accessibility analysis**.
 
 With 5 years in **academic publishing for AI and Big Data research**, I’ve honed both analytical and communication skills as a Journal Specialist. I now aim to apply this interdisciplinary experience toward a **data‑focused career** bridging technical analysis and stakeholder communication.
 
 **Education & Data Science Training**
 - 🎓 *BrainStation, London (Sep–Nov 2024):* Data Analyst Certification (Excel, SQL, Tableau, Data Storytelling)
-- 💡 *DataCamp (2023–2025):* Intermediate SQL · Intermediate R · Data Literacy
-- 🧬 *University of Birmingham (2018–2020):* M.Sc. Bioinformatics (Statistical ML, Genomics & NGS)
+- 💡  *DataCamp (2023–2025):* Intermediate SQL · Intermediate R · Data Literacy
+- 🧬 *University of Birmingham (2018–2020):* M.Sc. Bioinformatics (Statistical ML, Genomics & NGS, Computational Biology for Complex Systems)
   
 📄 *See my full CV and professional experience on [LinkedIn](https://www.linkedin.com/in/diananicu).*
 
