@@ -64,7 +64,7 @@ Extracted and standardized raw health data using SQL, summarized descriptive met
 - Found clear patterns between occupation and lower sleep efficiency  
 - Identified potential demographic differences (age/gender) affecting sleep quality  
 
-📂 *[View project folder →](./projects/brainstation-sleep-health-analysis)*
+📂 *[View project folder →](./Dia-git/Brainstation-DA)*
 
 ---
 
