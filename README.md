@@ -64,7 +64,7 @@ Extracted and standardized raw health data using SQL, summarized descriptive met
 - Found clear patterns between occupation and lower sleep efficiency  
 - Identified potential demographic differences (age/gender) affecting sleep quality  
 
-📂 *[View project folder →](./Brainstation-DA)*
+📂 *[View project folder →](https://github.com/Dia-git/Brainstation-DA)*
 
 ---
 
@@ -80,7 +80,7 @@ Extracted and standardized raw health data using SQL, summarized descriptive met
 - Developed foundational web design skills  
 - Created a simple multi-page site: a responsive index page linking to two separate resume (“CV”) pages. 
 
-📂 *[View project folder →](./projects/london42-html-css-site)*
+📂 *[View project folder →](https://github.com/Dia-git/html)*
 
 ---
 
