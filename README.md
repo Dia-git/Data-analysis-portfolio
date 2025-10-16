@@ -8,11 +8,11 @@ This repository showcases my work, skills, and continuous learning in **data ana
 
 ## 🧩 Skills Stack
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
 ![R](https://img.shields.io/badge/R-Intermediate-lightblue?logo=r)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?logo=postgresql)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-yellow?logo=tableau)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
 ![HTML](https://img.shields.io/badge/HTML-Basic-informational?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Basic-informational?logo=css3)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-gray?logo=gnu-bash)
