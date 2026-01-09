@@ -94,8 +94,7 @@ A growing collection of **practice projects** focused on strengthening core anal
 - SQL joins, aggregations, and query optimisation  
 - Exploratory analysis and visualisation in **Python**  
 
-
-📂 *[View projects folder →](./projects/datacamp-mini-projects)*
+📚 **DataCamp Portfolio:** https://www.datacamp.com/portfolio/diananicutari
 
 ---
 
