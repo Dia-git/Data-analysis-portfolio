@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analysis Portfolio!**  
 
-This repository showcases my work, skills, and continuous learning in **data analytics**, highlighting real‑world projects that reflect my analytical approach and storytelling focus. Each project demonstrates different steps of the data workflow, from exploration and cleaning to analysis, visualization, and insight generation.
+This repository showcases **end-to-end data analytics projects** demonstrating my ability to clean, analyse, and visualise data to generate **clear, actionable insights**. The focus is on **health, biological, and real-world datasets**, reflecting both my analytical training and scientific background.
 
 ---
 
@@ -24,19 +24,17 @@ This repository showcases my work, skills, and continuous learning in **data ana
 
 ## 👋 About Me
 
-Hi, I’m **Diana Nicutari**, a data‑driven professional with a background in **biology and bioinformatics**, passionate about using data to extract, interpret, and communicate meaningful insights.
+Hi, I’m **Diana Nicutari**, a **junior data analyst** with a background in **biology and bioinformatics**, passionate about using data to extract, interpret, and communicate meaningful insights.
 
 I hold a **Master of Science (M.Sc.) in Bioinformatics** from the **University of Birmingham (UK)**, where my dissertation focused on **optimizing ATAC‑seq workflows for chromatin accessibility analysis**.
 
-With 5 years in **academic publishing for AI and Big Data research**, I’ve honed both analytical and communication skills as a Journal Specialist. I now aim to apply this interdisciplinary experience toward a **data‑focused career** bridging technical analysis and stakeholder communication.
+With 6 years in **academic publishing for AI and Big Data research**, I’ve honed both analytical and communication skills as a Journal Specialist, supporting peer-reviewed research workflows and developing strong skills in **data quality, evidence interpretation, and stakeholder communication**. I am now applying this interdisciplinary experience toward a **data‑focused career** bridging technical analysis, scientific literacy and stakeholder communication.
 
 **Education & Data Science Training**
 - 🎓 *BrainStation, London (Sep–Nov 2024):* Data Analyst Certification (Excel, SQL, Tableau, Data Storytelling)
 - 💡  *DataCamp (2023–2025):* Intermediate SQL · Intermediate R · Data Literacy
 - 🧬 *University of Birmingham (2018–2020):* M.Sc. Bioinformatics (Statistical ML, Genomics & NGS, Computational Biology for Complex Systems)
   
-📄 *See my full CV and professional experience on [LinkedIn](https://www.linkedin.com/in/diananicu).*
-
 ---
 
 ## 📚 Table of Contents
@@ -60,6 +58,8 @@ With 5 years in **academic publishing for AI and Big Data research**, I’ve hon
 **Methodology:**
 Extracted and standardized raw health data using SQL, summarized descriptive metrics, and built **interactive dashboards in Tableau** to uncover correlations between factors like physical activity, stress, and sleep quality.
 
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
+
 **Key Insights:**
 - Found clear patterns between occupation and lower sleep efficiency  
 - Identified potential demographic differences (age/gender) affecting sleep quality  
@@ -70,13 +70,14 @@ Extracted and standardized raw health data using SQL, summarized descriptive met
 
 ## 🌐 Project 2: London 42 – HTML & CSS Portfolio Website
 
-**Goal:** Build and style a dynamic website while learning **HTML structure and CSS design principles**.  
+**Goals:** Strengthen skills in **data communication and presentation** by building a responsive website. Build and style a dynamic website while learning **HTML structure and CSS design principles**. 
 
 **Tools & Techniques:**
 - HTML, CSS, Bash  
 - Focused on responsive layout, color theory, and content accessibility  
 
 **Key Learnings:**
+- Improved ability to present analytical work clearly and accessibly  
 - Developed foundational web design skills  
 - Created a simple multi-page site: a responsive index page linking to two separate resume (“CV”) pages. 
 
@@ -86,11 +87,13 @@ Extracted and standardized raw health data using SQL, summarized descriptive met
 
 ## 🔧 Project 3: DataCamp Mini Projects (in progress)
 
-A growing collection of data practice projects applying **SQL**, **R**, and **Python** to exploratory, cleaning, and visualization tasks.  
-Example themes:  
-- Data cleaning challenges in R  
-- SQL query optimization  
-- Real‑world dashboard prototyping  
+A growing collection of **practice projects** focused on strengthening core analytics skills using realistic datasets.
+
+**Current focus areas:**  
+- Data cleaning and transformation in **R**  
+- SQL joins, aggregations, and query optimisation  
+- Exploratory analysis and visualisation in **Python**  
+
 
 📂 *[View projects folder →](./projects/datacamp-mini-projects)*
 
@@ -98,7 +101,7 @@ Example themes:
 
 ## 🏅 Certificates  
 
-> I believe the best way to showcase skills is through doing,  but certifications highlight milestones on that journey.
+> I believe the best way to showcase skills is through doing, but certifications highlight milestones on that journey.
 
 | Certificate | Provider | Date | Key Skills |
 |--------------|-----------|-------|-------------|
